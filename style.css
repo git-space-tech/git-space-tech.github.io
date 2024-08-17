@@ -903,12 +903,12 @@ iconify-icon.video-icon:hover {
 }
 
 .logo-img {
-  width: 30%; /* Make the image responsive by default */
+  width: 50%; /* Make the image responsive by default */
 }
 
 @media (max-width: 992px) {
   /* For large screens, set a fixed width or any desired size */
   .logo-img {
-    width: 150px;
+    width: 200px;
   }
 }
